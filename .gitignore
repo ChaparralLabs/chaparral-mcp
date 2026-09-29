@@ -6,5 +6,4 @@ dist/
 build/
 .venv/
 *.egg
-config.bat
 node_modules
